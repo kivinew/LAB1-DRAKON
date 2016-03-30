@@ -244,6 +244,7 @@ void main()
 						cout << "Нет такой команды!" <<endl;
 						break;
 				}
+				
 				break;
 
 			default:
