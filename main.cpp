@@ -3,7 +3,7 @@
 
 void main()
 {
-	setlocale(LC_ALL, "Russian");
+	setlocale(LC_ALL, "Rus");
 	
 	int size = -1, count_obj = -1, nomer_obj = -1, nomer_copy_obj = -1;
 	
